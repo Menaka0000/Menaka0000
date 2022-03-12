@@ -1,8 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Menaka</h1>
 <h5 align="center">Just be a human with `ENTHUSIASM`, `PATIENCE` and, `REPETITION`</h5>
-
-
 <h3 align="left">About Me</h5>
+
 -  A student at **IJSE Institute**.
 -  You could be able to find out **Projects** those I have done before and also a bit of myself on my  **[ Portfolio](https://menaka0000.github.io/MyProfile/)**.
 
