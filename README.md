@@ -3,7 +3,7 @@
 <h3 align="left">About Me</h5>
 
 -  A student at **IJSE Institute**.
--  You could be able to find out **Projects** those I have done before and also a bit of myself on my  **[ Portfolio](https://menaka0000.github.io/MyProfile/)**.
+-  You could be able to find out the **Projects** those I have done before and also a bit of myself on my  **[ Portfolio](https://menaka0000.github.io/MyProfile/)**.
 
 <h3 align="left">Follow me</h5>
 <p align="left">
