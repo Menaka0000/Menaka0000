@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Menaka</h1>
+<h2 align="center">Hello, I'm Menaka</h2>
 <h5 align="center">Just be a human with `ENTHUSIASM`, `PATIENCE` and, `REPETITION`</h5>
 <h3 align="left">About Me</h5>
 
